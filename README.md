@@ -1,9 +1,10 @@
 # The Ethereum Developer Logs
 
-* [Week 05](https://github.com/ethereum/diary/tree/master/entries/2017/5.md)
+* [Week 07](https://github.com/ethereum/diary/tree/master/entries/2017/7.md)
 
 ## Latest entries
 
+* [Week 05](https://github.com/ethereum/diary/tree/master/entries/2017/5.md)
 * [Week 04](https://github.com/ethereum/diary/tree/master/entries/2017/4.md)
 * [Week 02](https://github.com/ethereum/diary/tree/master/entries/2017/2.md)
 * [Week 01](https://github.com/ethereum/diary/tree/master/entries/2017/1.md)
